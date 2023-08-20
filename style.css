@@ -86,3 +86,27 @@ margin-top: -6px;
     margin-top: 10px;
     display: none;
 }
+.nav {
+    background: linear-gradient(135deg, #00feba ,#5b548a);
+    color: white;
+    display: flex;
+    margin:-8px;
+    padding:0;
+
+}
+.nav h1{
+    font-weight: 800;
+    padding-left: 15px;
+
+}
+.container {
+    padding-top: 10px;
+    padding-left: 63%;
+    text-align: center;
+}
+.display-date {
+    font-size: 25px;
+}
+.display-time{
+    font-size: 20px;
+}
